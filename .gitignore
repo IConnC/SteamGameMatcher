@@ -43,4 +43,4 @@ log/
 target/
 
 # Project Specific
-./apiKey.properties
+/apiKey.properties
