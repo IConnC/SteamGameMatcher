@@ -41,3 +41,6 @@ out/
 # Maven
 log/
 target/
+
+# Project Specific
+./apiKey.properties
